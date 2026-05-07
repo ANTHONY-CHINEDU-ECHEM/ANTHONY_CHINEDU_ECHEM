@@ -1,7 +1,7 @@
 # Anthony Chinedu Echem
 **Industrial Machine Learning Engineer | RL & PPO Specialist | OT Security Researcher**
 
-I am an engineer dedicated to building industrial systems that think, learn, and defend themselves.My expertise lies at the unique intersection of Reinforcement Learning, Physical Process Engineering, and Operational Technology (OT) security. I specialize in replacing rigid legacy control systems with demand-responsive, AI-optimized automation to drive industrial decarbonization and energy efficiency.
+I am an engineer dedicated to building industrial systems that think, learn, and defend themselves.My expertise lies at the unique intersection of Reinforcement Learning, Physical Process Engineering, and Operational Technology (OT) security. I specialize in replacing rigid legacy control systems with demand-responsive, AI-optimized automation to drive industrial decarbonization and energy efficiency.  I bring a strong Industrial mindset shaped by extensive experience in engineering and design technology, enabling me to translate complex data into actionable insights. Experienced in designing, developing, and deploying advanced machine learning models to drive growth, optimise decision-making, and improve operational efficiency. Motivated, adaptable, and collaborative, I thrive in both independent and team-based environments, applying data science and ML techniques to solve complex problems and deliver measurable impact.
 
 ---
 
