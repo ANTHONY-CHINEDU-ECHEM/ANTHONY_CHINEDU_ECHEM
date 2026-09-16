@@ -3,7 +3,8 @@
 # Anthony Chinedu Echem
 ## Machine Learning Engineer | LLM/AI Agent Architect | Cloud-Native ML Systems
 
-![Profile Image](https://github.com/ANTHONY-CHINEDU-ECHEM/ANTHONY_CHINEDU_ECHEM/blob/main/profile.jpg?raw=true)
+![Profile Image](<img width="1024" height="939" alt="WhatsApp Image 2026-09-05 at 14 36 53 (6)" src="https://github.com/user-attachments/assets/85d0ace6-0cf7-4ee5-b7fc-45ad726fdd03" />
+)
 
 ---
 
